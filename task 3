@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en"
 
@@ -14,4 +15,22 @@
 <p>Best Products At Best Prices Because Shopping is Cheaper Than Therapy</p>
 <hr>
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en"
+
+<head><meta charset="UTF-8"/></head>
+<body style="background-color:bisque;">
+
+<title>E Commerse Web Page</title>
+<nav>
+    <span><a href="index.html">Home</a></span>&nbsp;&nbsp;&nbsp;
+    
+</nav>
+
+<h1 style="color:rgb(237, 150, 100;"><u> MY E COMMERSE WEB PAGE</u> </h1>
+<p>Best Products At Best Prices Because Shopping is Cheaper Than Therapy</p>
+<hr>
+</body>
+>>>>>>> 328158fa7cdc1dda2a45ce65307b43e3c97dc8c2
 </html>
