@@ -1,0 +1,25 @@
+.title{
+ font-size: 50px;
+ font-color: black;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+ 
+}
+
+
+
+.form{
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    background-color: lightpink;
+    
+}
+
+.button{
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+}
+
+
+
